@@ -79,5 +79,8 @@ By applying **NLP techniques, sentiment analysis, and machine learning**, the fr
 - **Methodology:** Audit Analytics, Fraud Detection, Machine Learning, NLP  
 
 ---
+## Data Access
+The full dataset is too large to host on GitHub.  
+- Download full dataset from https://www.kaggle.com/datasets/yeshmesh/inconsistent-and-consistent-amazon-reviews
 
 
